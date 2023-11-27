@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Aysun Khipiyeva",
+      "email": "aysun@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "aysun123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 2,
+      "fullName": "Sabina Jafarova",
+      "email": "sabina@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "sabina123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": [],
+      "friendList": []
+    },
+    {
+      "id": 3,
+      "fullName": "Fatma Guliyeva",
+      "email": "fatma@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "fatma123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 4,
+      "fullName": "Said Taghizade",
+      "email": "said@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "said123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 5,
+      "fullName": "Nahid Mammadov",
+      "email": "nahid@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "nahid123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 6,
+      "fullName": "Asmar Jabbarova",
+      "email": "asmar@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "asmar123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 7,
+      "fullName": "Laman Nazirli",
+      "email": "laman@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "laman123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 8,
+      "fullName": "Samaya Israyilli",
+      "email": "samaya@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "samaya123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 9,
+      "fullName": "Ayan Abdullayeva",
+      "email": "ayan@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "ayan123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 10,
+      "fullName": "Nijat Abdullazada",
+      "email": "nijat@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "nijat123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 11,
+      "fullName": "Hamida Allahverdiyeva ",
+      "email": "hamida@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "hamida123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 12,
+      "fullName": "Shahana Gurbanova",
+      "email": "shahana@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "shahana123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 13,
+      "fullName": "Sevinj Shamiyeva ",
+      "email": "sevinj@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "sevinj123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 14,
+      "fullName": "Fatima Mammadli",
+      "email": "fatima@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "fatima123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "id": 15,
+      "fullName": "Ismayil Ismayilov ",
+      "email": "ismayil@gmail.com",
+      "about": "A passionate individual interested in technology and literature.",
+      "phoneNumber": "+1234567890",
+      "password": "ismayil123",
+      "friendsList": [],
+      "requestList": [],
+      "blockList": []
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "about": "",
+      "phoneNumber": "255788",
+      "password": "",
+      "id": 16
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "about": "",
+      "phoneNumber": "255788",
+      "password": "",
+      "id": 17
+    },
+    {
+      "fullName": "Levi Guy",
+      "email": "nixegul@mailinator.com",
+      "about": "Aut id qui et quia ",
+      "phoneNumber": "+1 (648) 497-2596",
+      "password": "Pa$$w0rd!",
+      "id": 18
+    },
+    {
+      "fullName": "Jocelyn Vargas",
+      "email": "xoki@mailinator.com",
+      "about": "Eius cum duis qui mi",
+      "phoneNumber": "+1 (412) 816-3934",
+      "password": "Pa$$w0rd!",
+      "id": 19
+    }
+  ]
+}

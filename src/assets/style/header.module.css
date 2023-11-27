@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+}
+.nav {
+  height: 80px;
+  background-color: #058e3f;
+}
+.container {
+  margin: 0 auto;
+  margin-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+}
+.ul {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5px;
+  gap: 30px;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.li {
+  list-style: none;
+  color: white;
+}
